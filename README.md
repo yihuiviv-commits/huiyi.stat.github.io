@@ -87,7 +87,7 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: yihuiviv@gmail.com; hyi@ncat.edu
     - type: wechat
       value: YourWeChatUsername
       link: "#"
@@ -104,7 +104,7 @@ footer:
       link: http://linkedin.com/in/YourLinkedInUsername
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: https://github.com/yihuiviv-commits
     - type: dribbble
       name: Dribbble
       link: https://dribbble.com/YourDribbbleUsername
